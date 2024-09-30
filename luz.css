@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(96, 111, 107, 0.729);
+}
+
+p{
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
+
+h1{
+    font-style:oblique;
+    color: white;
+}
+
+h2{
+    font-style: oblique;
+    color: white;
+}
+
+img{
+    border-radius: 20px;
+    width: 500px;
+    height:400;
+    
+}
+
+iframe{
+    border-radius: 20px;
+    width: 500px;
+}
+
+a{
+    font-size: 20px;
+}
+
+ul{
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
